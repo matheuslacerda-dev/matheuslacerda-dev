@@ -33,7 +33,7 @@ class Architect:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&bg_color=29274C&border_color=1E1E1E&text_color=F0F0F0&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=F0F0F0&sideLabels=F0F0F0&dates=F0F0F0&hide_border=false)](https://github.com/matzxcss)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matzxcss&bg_color=29274C&border_color=29274C&text_color=F0F0F0&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=F0F0F0&sideLabels=F0F0F0&dates=F0F0F0&hide_border=false)](https://github.com/matzxcss)
 
 </div>
 
