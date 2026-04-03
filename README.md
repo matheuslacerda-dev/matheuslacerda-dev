@@ -94,13 +94,13 @@ PHILOSOPHY STACK
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  KERNEL      : python 3.12.x                                           │
-│  IDE         : Zed :: Elderberry theme :: JetBrains Mono               │
-│  FOCUS       : Django ORM internals / HTMX SSR                         │
-│  PROCESS     : MTU Cork syllabus analysis [background]                 │
-│  AUDIO       : Trap Underground / Dark Jazz                            │
-│  LAST_BUILD  : Portfolio :: FastAPI + HTMX [99 Lighthouse]             │
-│  NEXT_BUILD  : [CLASSIFIED]                                            │
+│  KERNEL      : python 3.12.x                                │
+│  IDE         : Zed :: Elderberry theme :: JetBrains Mono    │
+│  FOCUS       : Django ORM internals / HTMX SSR              │
+│  PROCESS     : MTU Cork syllabus analysis [background]      │
+│  AUDIO       : Trap Underground / Dark Jazz                 │
+│  LAST_BUILD  : Portfolio :: FastAPI + HTMX [99 Lighthouse]  │
+│  NEXT_BUILD  : [CLASSIFIED]                                 │
 └─────────────────────────────────────────────────────────────┘
 ```
 
